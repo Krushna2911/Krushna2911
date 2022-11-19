@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)]
+![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
 <h1 align="center">Hi 👋, I'm Krushna Nikam</h1>
 <h3 align="center">A passionate Java fullstack developer from India</h3>
 <img align="right" alt="Coding"width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
