@@ -1,4 +1,4 @@
-![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
+![Project Banner](https://res.cloudinary.com/dh5astga0/image/upload/v1776951597/Gemini_Generated_Image_25s8nf25s8nf25s8_jmfnwq.png)
 <h1 align="center">Hi 👋, I'm Krushna Nikam</h1>
 <h3 align="center">
 🚀 Java Full Stack Developer | Python | Machine Learning | Data Science Enthusiast
