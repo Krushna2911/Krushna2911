@@ -93,6 +93,17 @@
 ---
 
  </p>
+ 
+```text
+████████████████████████████████████████
+
+"People don't care about what you say,
+ they care about what you build."
+
+              — Mark Zuckerberg
+
+████████████████████████████████████████
+```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushna2911&show_icons=true&locale=en&layout=compact" alt="krushna2911" /></p>
 
